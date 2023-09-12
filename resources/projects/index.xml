@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on MIT OpenCourseWare</title>
+    <link>/resources/projects/</link>
+    <description>Recent content in Projects on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>/pages/projects/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/projects/data.json</guid>
+      <description>The basic goal of the project is for you to independently apply some of the advanced algorithmic thinking you have been developing in this class. The course project involves a combination of goals-encountering and independently absorbing new material, doing some thinking about it, and presenting what you have done. Different projects will attain these goals in different proportions.
+There are 3 main ways to approach the project.
+Reading Project Find a few interesting but challenging theoretical papers on a coherent topic, and write up an exposition that synthesizes their ideas.</description>
+    </item>
+    
+  </channel>
+</rss>

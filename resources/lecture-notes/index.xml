@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>algorithms_lec13.pdf</title>
+      <link>/resources/algorithms_lec13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/algorithms_lec13/data.json</guid>
+      <description>This resource contains information on max-cut, max-sat, combined algorithm, and set cover.</description>
+    </item>
+    
+    <item>
+      <title>blocking_flows2.pdf</title>
+      <link>/resources/blocking_flows2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/blocking_flows2/data.json</guid>
+      <description>This resource contains information on capacitated graphs, costs in flow networks, optimality criteria and algorithms.</description>
+    </item>
+    
+    <item>
+      <title>blockingflows2.pdf</title>
+      <link>/resources/blockingflows2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/blockingflows2/data.json</guid>
+      <description>This resource contains information on capacitated graphs, costs in flow networks, optimality criteria and algorithms.</description>
+    </item>
+    
+    <item>
+      <title>dualitynotes.pdf</title>
+      <link>/resources/dualitynotes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/dualitynotes/data.json</guid>
+      <description>This resource contains information on Structure of LP solutions, the dual of a linear program, and gravitational model.</description>
+    </item>
+    
+    <item>
+      <title>dzhang_splaytree.pdf</title>
+      <link>/resources/dzhang_splaytree/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/dzhang_splaytree/data.json</guid>
+      <description>This resource contains information on analysis of splay steps and analysis of splay tree operations.</description>
+    </item>
+    
+    <item>
+      <title>dzhangsplaytree.pdf</title>
+      <link>/resources/dzhangsplaytree/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/dzhangsplaytree/data.json</guid>
+      <description>This resource contains information on analysis of splay steps and analysis of splay tree operations.</description>
+    </item>
+    
+    <item>
+      <title>fibheaps.pdf</title>
+      <link>/resources/fibheaps/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/fibheaps/data.json</guid>
+      <description>This resource contains information on shortest path and minimum spanning trees, amortized analysis, heaps, inserting, merging, cutting, marking, and utility.</description>
+    </item>
+    
+    <item>
+      <title>hashing.pdf</title>
+      <link>/resources/hashing/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hashing/data.json</guid>
+      <description>This resource contains ionformation on 2-level hashing and problem formulation.</description>
+    </item>
+    
+    <item>
+      <title>lec01_1999.pdf</title>
+      <link>/resources/lec01_1999/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec01_1999/data.json</guid>
+      <description>This resource contains information on shortest path and minimum spanning trees, amortized analysis, decreasing keys and deleting mins.</description>
+    </item>
+    
+    <item>
+      <title>lec01_2003.pdf</title>
+      <link>/resources/lec01_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec01_2003/data.json</guid>
+      <description>Ths resource contains information on Rabin-Karp string matching, suffix trees, and suffix tree construction.</description>
+    </item>
+    
+    <item>
+      <title>lec02_2003.pdf</title>
+      <link>/resources/lec02_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec02_2003/data.json</guid>
+      <description>This resource contains information on suffix trees and heaps.</description>
+    </item>
+    
+    <item>
+      <title>lec05_1999.pdf</title>
+      <link>/resources/lec05_1999/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec05_1999/data.json</guid>
+      <description>This resource contains information on the geometric search problem and making pointer based data structures persistent.</description>
+    </item>
+    
+    <item>
+      <title>lec06_2003.pdf</title>
+      <link>/resources/lec06_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec06_2003/data.json</guid>
+      <description>This resource contains information on Ford-Fulkerson algorithm and some definitions.</description>
+    </item>
+    
+    <item>
+      <title>lec07_2003.pdf</title>
+      <link>/resources/lec07_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec07_2003/data.json</guid>
+      <description>This resource contains information on blocking flows and scaling algorithms.</description>
+    </item>
+    
+    <item>
+      <title>lec08_2003.pdf</title>
+      <link>/resources/lec08_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec08_2003/data.json</guid>
+      <description>This resource contains information on costs in flow networks, optimality criteria and algorithms.</description>
+    </item>
+    
+    <item>
+      <title>lec09_2003.pdf</title>
+      <link>/resources/lec09_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec09_2003/data.json</guid>
+      <description>This resource contains information on motivation, introduction, definition, geometry, separating hyperplanes and the structure of optima.</description>
+    </item>
+    
+    <item>
+      <title>lec10_2003.pdf</title>
+      <link>/resources/lec10_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec10_2003/data.json</guid>
+      <description>This resource contains information on basic feasable solution, Farkas&amp;rsquo; lemma and duality.</description>
+    </item>
+    
+    <item>
+      <title>lec11_2001.pdf</title>
+      <link>/resources/lec11_2001/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec11_2001/data.json</guid>
+      <description>This resource contains information on the analysi of the Goldberg-Tarjan algorithm.</description>
+    </item>
+    
+    <item>
+      <title>lec11_2003.pdf</title>
+      <link>/resources/lec11_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec11_2003/data.json</guid>
+      <description>This resource contains information on rules for taking duals, shortest paths, gravitational model, comlpementary slackness and max flow min cut model.</description>
+    </item>
+    
+    <item>
+      <title>lec12_2003.pdf</title>
+      <link>/resources/lec12_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec12_2003/data.json</guid>
+      <description>This resource contains information on NP-completeness, optimisation problems, proving negative examples by scaling and polynomial approximation schemes.</description>
+    </item>
+    
+    <item>
+      <title>lec13_2001.pdf</title>
+      <link>/resources/lec13_2001/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec13_2001/data.json</guid>
+      <description>This resource contains information on splay trees, amortized analysis of splay trees operation and dynamic trees.</description>
+    </item>
+    
+    <item>
+      <title>lec13_2003.pdf</title>
+      <link>/resources/lec13_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec13_2003/data.json</guid>
+      <description>This resource contains information on polynomial time approximation scheme, fully polynomial approximation schemes and approximation algorithms for MAX-CUT, set cover and vertex cover problems.</description>
+    </item>
+    
+    <item>
+      <title>lec14_1999.pdf</title>
+      <link>/resources/lec14_1999/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec14_1999/data.json</guid>
+      <description>This resource contains information on shortest augmenting paths, finding a minimum cost circulation, and minimum cost flow in general networks by cost scaling.</description>
+    </item>
+    
+    <item>
+      <title>lec14_2003.pdf</title>
+      <link>/resources/lec14_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec14_2003/data.json</guid>
+      <description>This resource contains information on problem formulation amd metric TSP, directed TSP and max-sat.</description>
+    </item>
+    
+    <item>
+      <title>lec15_2003.pdf</title>
+      <link>/resources/lec15_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec15_2003/data.json</guid>
+      <description>This resource contains information on rules for taking duals, gravitational model, complementary slackness and max-flow min-cut theorem.</description>
+    </item>
+    
+    <item>
+      <title>lec18_2003.pdf</title>
+      <link>/resources/lec18_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec18_2003/data.json</guid>
+      <description>This resource contains information on motivation, definition and construction.</description>
+    </item>
+    
+    <item>
+      <title>lec19_2003.pdf</title>
+      <link>/resources/lec19_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec19_2003/data.json</guid>
+      <description>This resource contains information on ski rental problem and linear search.</description>
+    </item>
+    
+    <item>
+      <title>lec20_2003.pdf</title>
+      <link>/resources/lec20_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec20_2003/data.json</guid>
+      <description>This resource contains information randomization.</description>
+    </item>
+    
+    <item>
+      <title>lec21_2003.pdf</title>
+      <link>/resources/lec21_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec21_2003/data.json</guid>
+      <description>This resource contains information on scanning, reversing an array, search tree and buffer trees.</description>
+    </item>
+    
+    <item>
+      <title>lec22_2003.pdf</title>
+      <link>/resources/lec22_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec22_2003/data.json</guid>
+      <description>This resource contains information on scanning, matrix multiplication, binary search and linked list.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Although some of the lecture below were scribed during the 2005 version of this course, many of the scribed notes below are from previous versions of the course. These older notes were made available to the students.
+Scribed notes were taken by the students and used with permission.
+The instructor notes often span several lectures
+LEC # TOPICS SCRIBE NOTES Instructor NOTES 1 Course Introduction
+Fibonacci Heaps Fibonacci Heaps (PDF) (Courtesy of David Andersen, Ioana Dumitriu, John Dunagan, and Akshay Patil.</description>
+    </item>
+    
+    <item>
+      <title>lecture14.pdf</title>
+      <link>/resources/lecture14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture14/data.json</guid>
+      <description>This resource contains information on fixed parameter tractability, bounded search tree method, kernelisation, and treewidth.</description>
+    </item>
+    
+    <item>
+      <title>lp1.pdf</title>
+      <link>/resources/lp1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lp1/data.json</guid>
+      <description>This resource contains information on definitions, structure of optima and separating hyperplanes.</description>
+    </item>
+    
+    <item>
+      <title>max_flow_dff.pdf</title>
+      <link>/resources/max_flow_dff/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/max_flow_dff/data.json</guid>
+      <description>This resource contains information on the maximum flow problem, flow decomposition and cuts, max-flow min-cut theorem and scaling algorithm.</description>
+    </item>
+    
+    <item>
+      <title>maxflowdff.pdf</title>
+      <link>/resources/maxflowdff/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/maxflowdff/data.json</guid>
+      <description>This resource contains information on the maximum flow problem, flow decomposition and cuts, max-flow min-cut theorem and scaling algorithm.</description>
+    </item>
+    
+    <item>
+      <title>min_cost_flow.pdf</title>
+      <link>/resources/min_cost_flow/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/min_cost_flow/data.json</guid>
+      <description>This resource contains information on shortest augmenting paths: unit capacity networks, MCF scaling by capacity, and MCF scaling by cost.</description>
+    </item>
+    
+    <item>
+      <title>mincostflow.pdf</title>
+      <link>/resources/mincostflow/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mincostflow/data.json</guid>
+      <description>This resource contains information on shortest augmenting paths: unit capacity networks, MCF scaling by capacity, and MCF scaling by cost.</description>
+    </item>
+    
+    <item>
+      <title>n0_intro.pdf</title>
+      <link>/resources/n0_intro/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n0_intro/data.json</guid>
+      <description>This resource contains information on why to study this course and varieties of algorithms.</description>
+    </item>
+    
+    <item>
+      <title>n0intro.pdf</title>
+      <link>/resources/n0intro/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n0intro/data.json</guid>
+      <description>This resource contains information on why to study this course and varieties of algorithms.</description>
+    </item>
+    
+    <item>
+      <title>n1_fibonacci.pdf</title>
+      <link>/resources/n1_fibonacci/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n1_fibonacci/data.json</guid>
+      <description>This resource contains information on heaps, and minimum spanning tree.</description>
+    </item>
+    
+    <item>
+      <title>n10_mincostflow.pdf</title>
+      <link>/resources/n10_mincostflow/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n10_mincostflow/data.json</guid>
+      <description>This file contains notes for min-cost flow.</description>
+    </item>
+    
+    <item>
+      <title>n11_lp.pdf</title>
+      <link>/resources/n11_lp/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n11_lp/data.json</guid>
+      <description>This file contains notes for blocking flows, minimum cost maximum flow, minimum cost circulation.</description>
+    </item>
+    
+    <item>
+      <title>n15_approx.pdf</title>
+      <link>/resources/n15_approx/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n15_approx/data.json</guid>
+      <description>This file contains notes for approximation algorithms.</description>
+    </item>
+    
+    <item>
+      <title>n1fibonacci.pdf</title>
+      <link>/resources/n1fibonacci/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n1fibonacci/data.json</guid>
+      <description>This resource contains information on heaps, and minimum spanning tree.</description>
+    </item>
+    
+    <item>
+      <title>n2_persistent.pdf</title>
+      <link>/resources/n2_persistent/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n2_persistent/data.json</guid>
+      <description>This resource contains information on persistent trees.</description>
+    </item>
+    
+    <item>
+      <title>n22_fixedparam.pdf</title>
+      <link>/resources/n22_fixedparam/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n22_fixedparam/data.json</guid>
+      <description>This file contains notes on treewidth.</description>
+    </item>
+    
+    <item>
+      <title>n23online.pdf</title>
+      <link>/resources/n23online/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n23online/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>n25_geometry.pdf</title>
+      <link>/resources/n25_geometry/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n25_geometry/data.json</guid>
+      <description>This file contains notes on geometry.</description>
+    </item>
+    
+    <item>
+      <title>n28_external.pdf</title>
+      <link>/resources/n28_external/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n28_external/data.json</guid>
+      <description>This file contains notes for external memory.</description>
+    </item>
+    
+    <item>
+      <title>n2persistent.pdf</title>
+      <link>/resources/n2persistent/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n2persistent/data.json</guid>
+      <description>This resource contains information on persistent trees.</description>
+    </item>
+    
+    <item>
+      <title>n3_splay.pdf</title>
+      <link>/resources/n3_splay/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n3_splay/data.json</guid>
+      <description>This file contains notes for splay trees.</description>
+    </item>
+    
+    <item>
+      <title>n32parallel.pdf</title>
+      <link>/resources/n32parallel/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n32parallel/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>n4_suffix.pdf</title>
+      <link>/resources/n4_suffix/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n4_suffix/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>n5_bucket.pdf</title>
+      <link>/resources/n5_bucket/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n5_bucket/data.json</guid>
+      <description>This resource contains information on buckets and VEB.</description>
+    </item>
+    
+    <item>
+      <title>n5bucket.pdf</title>
+      <link>/resources/n5bucket/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n5bucket/data.json</guid>
+      <description>This resource contains information on buckets and VEB.</description>
+    </item>
+    
+    <item>
+      <title>n6_hashing.pdf</title>
+      <link>/resources/n6_hashing/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n6_hashing/data.json</guid>
+      <description>This resource contains information on hashing and perfect hash families.</description>
+    </item>
+    
+    <item>
+      <title>n6hashing.pdf</title>
+      <link>/resources/n6hashing/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n6hashing/data.json</guid>
+      <description>This resource contains information on hashing and perfect?hash?families.</description>
+    </item>
+    
+    <item>
+      <title>n7_flow.pdf</title>
+      <link>/resources/n7_flow/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/n7_flow/data.json</guid>
+      <description>This file contains notes for maximum flow.</description>
+    </item>
+    
+    <item>
+      <title>persistent.pdf</title>
+      <link>/resources/persistent/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/persistent/data.json</guid>
+      <description>This resource contains information on applications, making pointer-based data structures persistent, second try: path copying, and the geometric search problem.</description>
+    </item>
+    
+    <item>
+      <title>provine_scribe.pdf</title>
+      <link>/resources/provine_scribe/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/provine_scribe/data.json</guid>
+      <description>This resource contains information on fixed-parameter tractability of SAT, competitive analysis, online load balancing, and improvements to Graham?s algorithm.</description>
+    </item>
+    
+    <item>
+      <title>provinescribe.pdf</title>
+      <link>/resources/provinescribe/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/provinescribe/data.json</guid>
+      <description>This resource contains information on fixed-parameter?tractability?of?SAT, competitive?analysis, online?load?balancing, and improvements?to?Graham?s?algorithm.</description>
+    </item>
+    
+    <item>
+      <title>ragnarok.pdf</title>
+      <link>/resources/ragnarok/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ragnarok/data.json</guid>
+      <description>This resource contains information on game?theory?analysis and online?algorithm.</description>
+    </item>
+    
+    <item>
+      <title>rasmu_sweepline.pdf</title>
+      <link>/resources/rasmu_sweepline/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rasmu_sweepline/data.json</guid>
+      <description>This resource contains information on convex hull and segment intersections.</description>
+    </item>
+    
+    <item>
+      <title>rasmusweepline.pdf</title>
+      <link>/resources/rasmusweepline/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rasmusweepline/data.json</guid>
+      <description>This resource contains information on convex?hull and segment?intersections.</description>
+    </item>
+    
+    <item>
+      <title>s25.pdf</title>
+      <link>/resources/s25/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/s25/data.json</guid>
+      <description>This resource contains information on convex?hull, backwards?analysis, and linear?programming.</description>
+    </item>
+    
+    <item>
+      <title>scribe11.pdf</title>
+      <link>/resources/scribe11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/scribe11/data.json</guid>
+      <description>This resource contains information on the ellipsoid algorithm, interior point algorithms, and polynomial-time approximation algorithms.</description>
+    </item>
+    
+    <item>
+      <title>scribe9.pdf</title>
+      <link>/resources/scribe9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/scribe9/data.json</guid>
+      <description>This resource contains information on geometry, separating hyperplanes and structure of optima.</description>
+    </item>
+    
+    <item>
+      <title>sidenko.pdf</title>
+      <link>/resources/sidenko/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sidenko/data.json</guid>
+      <description>This resource contains information on relative?approximation?algorithms, polynomial?approximation?schemes, and fully?polynomial?approximation?schemes.</description>
+    </item>
+    
+    <item>
+      <title>suffix.pdf</title>
+      <link>/resources/suffix/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/suffix/data.json</guid>
+      <description>This resource contains information on suffix trees.</description>
+    </item>
+    
+    <item>
+      <title>tushara_lec20.pdf</title>
+      <link>/resources/tushara_lec20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/tushara_lec20/data.json</guid>
+      <description>This resource contains information on paging, LRU is k-competitive , and finance.</description>
+    </item>
+    
+    <item>
+      <title>tusharalec20.pdf</title>
+      <link>/resources/tusharalec20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/tusharalec20/data.json</guid>
+      <description>This resource contains information on paging, LRU is k-competitive , and finance.</description>
+    </item>
+    
+    <item>
+      <title>veb.pdf</title>
+      <link>/resources/veb/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/veb/data.json</guid>
+      <description>This resource contains information on Van Emde Boas queues.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>Collaboration on problem sets is strongly encouraged except where explicitly forbidden. However, each student must independently write up his/her own solution, and students must list all collaborators on their problem sets. Students may not seek out answers from other sources without prior permission.
+Lec # ASSIGNMENTS SOLUTIONS 4 Problem Set 1 (PDF) (PDF) 6 Problem Set 2 (PDF) (PDF) 9 Problem Set 3 (PDF) (PDF) 12 Problem Set 4 (PDF) (PDF) 13 Problem Set 5 (PDF) (PDF) Problem Set 6 (PDF) (PDF) 17 Problem Set 7 (PDF) (PDF) 20 Problem Set 8 (PDF) (PDF) 22 Problem Set 9 (PDF) (PDF) 24 Problem Set 10 (PDF) (PDF) 26 Problem Set 11 (PDF) (PDF) 27, 29 Problem Set 12 (PDF) (PDF) </description>
+    </item>
+    
+    <item>
+      <title>ps1.pdf</title>
+      <link>/resources/ps1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps1/data.json</guid>
+      <description>This resource contains questions on fibonacci heaps, least common ancestor and tradeoff in heap operations.</description>
+    </item>
+    
+    <item>
+      <title>ps10.pdf</title>
+      <link>/resources/ps10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps10/data.json</guid>
+      <description>This resource contains questions on VLSI?design, network?routing, set?basis, load?balancing, finding?a?lifetime?companion, and randomized?strategy.</description>
+    </item>
+    
+    <item>
+      <title>ps11.pdf</title>
+      <link>/resources/ps11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps11/data.json</guid>
+      <description>this resource contains questions on vertex?cover, Double?Coverage?algorithm, and range?searching.</description>
+    </item>
+    
+    <item>
+      <title>ps12.pdf</title>
+      <link>/resources/ps12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps12/data.json</guid>
+      <description>This resource contains questions on finding lines crossing a rectangle and standard representation of a Voronoi diagram.</description>
+    </item>
+    
+    <item>
+      <title>ps2.pdf</title>
+      <link>/resources/ps2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps2/data.json</guid>
+      <description>This resource contains questions on data?structure, access?time?in?splay?trees, and how to construct a suffix tree on multiple texts.</description>
+    </item>
+    
+    <item>
+      <title>ps3.pdf</title>
+      <link>/resources/ps3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps3/data.json</guid>
+      <description>This resource contains questions on van?Emde?Boas?priority?queue, Fibonacci?heaps, and perfect?hashing.</description>
+    </item>
+    
+    <item>
+      <title>ps4.pdf</title>
+      <link>/resources/ps4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps4/data.json</guid>
+      <description>This resource contains questions on flows, scaling?algorithm?for?shortest?paths, and augmenting?paths.</description>
+    </item>
+    
+    <item>
+      <title>ps5.pdf</title>
+      <link>/resources/ps5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps5/data.json</guid>
+      <description>This resource contains questions on blocking?flows and integer?flow.</description>
+    </item>
+    
+    <item>
+      <title>ps6.pdf</title>
+      <link>/resources/ps6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps6/data.json</guid>
+      <description>This resource contains questions on mincost?flow and linear?program.</description>
+    </item>
+    
+    <item>
+      <title>ps7_new.pdf</title>
+      <link>/resources/ps7_new/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps7_new/data.json</guid>
+      <description>This resource contains questions on polyhedra, maximumflow, minimum?mean?cycle, and LP?optimization.</description>
+    </item>
+    
+    <item>
+      <title>ps8.pdf</title>
+      <link>/resources/ps8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps8/data.json</guid>
+      <description>This resource contains questions on Markov?chains, nonlinear?programs, and scheduling.</description>
+    </item>
+    
+    <item>
+      <title>ps9.pdf</title>
+      <link>/resources/ps9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps9/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sol1.pdf</title>
+      <link>/resources/sol1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol1/data.json</guid>
+      <description>This resource contains solutions of Fibonacci?heap, linked?list, and offline?algorithm.</description>
+    </item>
+    
+    <item>
+      <title>sol10.pdf</title>
+      <link>/resources/sol10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol10/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sol11.pdf</title>
+      <link>/resources/sol11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol11/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sol12.pdf</title>
+      <link>/resources/sol12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol12/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sol2.pdf</title>
+      <link>/resources/sol2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol2/data.json</guid>
+      <description>This resource contains the solutions on splay tree.</description>
+    </item>
+    
+    <item>
+      <title>sol3.pdf</title>
+      <link>/resources/sol3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol3/data.json</guid>
+      <description>This resource contains solutions on vEB?queue, Dijkstra?s?algorithm, and hash?functions.</description>
+    </item>
+    
+    <item>
+      <title>sol4.pdf</title>
+      <link>/resources/sol4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol4/data.json</guid>
+      <description>This resource contains solutions on array creation, scaling algorithm, minimum flow, and minimum flow.</description>
+    </item>
+    
+    <item>
+      <title>sol5.pdf</title>
+      <link>/resources/sol5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol5/data.json</guid>
+      <description>This resource contains solutions on admissible graph, max flow and matrix.</description>
+    </item>
+    
+    <item>
+      <title>sol6.pdf</title>
+      <link>/resources/sol6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol6/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sol7.pdf</title>
+      <link>/resources/sol7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol7/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sol8.pdf</title>
+      <link>/resources/sol8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol8/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sol9.pdf</title>
+      <link>/resources/sol9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sol9/data.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

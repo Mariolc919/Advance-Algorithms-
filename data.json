@@ -1,0 +1,20 @@
+{
+  "course_title":"Advanced Algorithms",
+  "course_description":"This course is a first-year graduate course in algorithms. Emphasis is placed on fundamental algorithms and advanced methods of algorithmic design, analysis, and implementation. Techniques to be covered include amortization, randomization, fingerprinting, word-level parallelism, bit scaling, dynamic programming, network flow, linear programming, fixed-parameter algorithms, and approximation algorithms. Domains include string algorithms, network optimization, parallel algorithms, computational geometry, online algorithms, external memory, cache, and streaming algorithms, and data structures.\n",
+  "site_uid":"60a48dc2-8e65-4187-9ab8-c7826db5e459",
+  "legacy_uid":"9a5ad50b-46b0-7ee1-8421-4823b53c4866","instructors": [{
+    "first_name":"David",
+    "last_name":"Karger",
+    "middle_initial":"R.",
+    "salutation":"Prof.",
+    "title":"Prof. David R. Karger"}],"department_numbers":["6","18"],
+  "learning_resource_types":["Problem Sets with Solutions"],
+  "topics":[["Engineering","Computer Science","Algorithms and Data Structures"]],
+  "primary_course_number":"6.854J",
+  "extra_course_numbers":"18.415J",
+  "term":"Fall",
+  "year":"2005",
+  "level":["Graduate"],
+  "image_src":"./static_resources/696395782d4185f0bbc9781d0ca36b93_6-854jf05.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"The adaptive mesh refinement algorithm technique, shown above, is used to break complex computing problems into smaller pieces. (Image courtesy of Ernest Orlando Lawrence Berkeley National Laboratory.)","draft":false,"file":"/courses/6-854j-advanced-algorithms-fall-2005/696395782d4185f0bbc9781d0ca36b93_6-854jf05.jpg","file_type":"image/jpeg","image_metadata":{"caption":"The adaptive mesh refinement algorithm technique, shown above, is used to break complex computing problems into smaller pieces. (Image courtesy of [Ernest Orlando Lawrence Berkeley National Laboratory](http://www.lbl.gov/Science-Articles/Research-Review/Highlights/1998/v3/TOC.html).)","credit":"","image-alt":"Adaptive mesh refinement algorithm technique."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"6-854jf05.jpg","uid":"69639578-2d41-85f0-bbc9-781d0ca36b93"}}
+

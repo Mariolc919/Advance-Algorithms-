@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>There are no textbooks covering a majority portion of the material we will be studying in this class. Roughly 20% of the material is covered in the lecture notes from another version of this course, by Prof. Michel Goemans.
+The following papers are related to the second lecture:
+Cormen, Leiserson, Rivest, and Stein. Introduction to Algorithms. 2nd ed. Cambridge, MA: MIT Press, 2001. ISBN: 0262032937.
+Ahuja, Magnanti, and Orlin. Network Flows.</description>
+    </item>
+    
+  </channel>
+</rss>
